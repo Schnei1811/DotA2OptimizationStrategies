@@ -101,14 +101,12 @@ Item = {1:'Blink',2:'Blades of Attack',3:'Broadsword',4:'Chainmail',5:'Claymore'
 		151:'Wind Lace',152:'Bloodthorn',153:'Moon Shard',154:'Silver Edge',155:'Echo Sabre',156:'Glimmer Cape',157:'Tome of Knowledge',158:'Hurriance Pike',159:'Infused Raindrop'}
 
 Predict = {1:'Radiant Victory',2:'Dire Victory'}
-
 n_features = 339-1
 n_classes = 159+1
 hidden_size = 1000
 
 print("\nRadiant Team:\n",Hero[radhero1],",",Hero[radhero2],",",Hero[radhero3],",",Hero[radhero4],",",Hero[radhero5])
 print("\nDire Team:\n",Hero[direhero1],",",Hero[direhero2],",",Hero[direhero3],",",Hero[direhero4],",",Hero[direhero5])
-
 print("\nSelected Hero:\n",Hero[selectedhero])
 
 input_data = np.zeros((n_features,),dtype=np.int)
@@ -116,5 +114,4 @@ input_data = datacreation(input_data)
 dnnpredict = PredictDeepNeuralNetwork(input_data)
 
 print(dnnpredict)
-
 print("\nItem Recommendations:\n",Item[dnnpredict[0]+1],Item[dnnpredict[1]+1],Item[dnnpredict[2]+1],Item[dnnpredict[3]+1],Item[dnnpredict[4]+1],Item[dnnpredict[5]+1])
