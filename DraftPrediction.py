@@ -85,4 +85,4 @@ input_data = datacreation(input_data)
 snnpredict = PredictSimpleNeuralNetwork()
 
 print("\nRandom Forest Predicted", Predict[rfpredict])
-print("\nSimple Neural Network Predicted", Predict[int(snnpredict)])
+print("\nSimple Neural Network Predicted", Predict[snnpredict])
