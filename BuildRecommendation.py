@@ -89,7 +89,7 @@ Item = {1:'Blink',2:'Blades of Attack',3:'Broadsword',4:'Chainmail',5:'Claymore'
 		31:'Cloak',32:'Talisman of Evasion',33:'Cheese',34:'Magic Stick',35:'Magic Wand',36:'Ghost Scepter',37:'Clarity',38:'Healing Flask',39:'Dust',40:'Bottle',
 		41:'Observer Ward',42:'Sentry Ward',43:'Tango',44:'Courier',45:'TP Scroll',46:'Boots of Travel',47:'Phase Boots',48:'Demon Edge',49:'Eagle Song',50:'Reaver',
 		51:'Sacred Relic',52:'Hyperstone',53:'Ring of Health',54:'Void Stone',55:'Mystic Staff',56:'Energy Booster',57:'Point Booster',58:'Vitality Booster',59:'Power Treads',60:'Hand of Midas',
-		61:'Oblivion Staff',62:'Pers?',63:'Poor Mans Shield',64:'Bracer',65:'Wraith Band',66:'Null Talisman',67:'Mekanism',68:'Vladmirs Offering',69:'Flying Courier',70:'Buckler',
+		61:'Oblivion Staff',62:'Vacant',63:'Poor Mans Shield',64:'Bracer',65:'Wraith Band',66:'Null Talisman',67:'Mekanism',68:'Vladmirs Offering',69:'Flying Courier',70:'Buckler',
 		71:'Ring of Basiluis',72:'Pipe',73:'Urn of Shadows',74:'Headdress',75:'Scythe of Vyse',76:'Orchid',77:'Cyclone?',78:'Force Staff',79:'Dagon',80:'Neconomicon',
 		81:'Ultimate Scepter?',82:'Refresher Orb',83:'Assault Cuirass',84:'Heart',85:'Black King Bar',86:'Shivas Guard',87:'Bloodstone',88:'Sphere?',89:'Vanguard',90:'Blade Mail',
 		91:'Soul Booster',92:'Hood of Defiance',93:'Devine Rapier',94:'Monkey King Bar',95:'Radiance',96:'Butterfly',97:'Greater Crit?',98:'Basher',99:'Battlefury',100:'Manta',
